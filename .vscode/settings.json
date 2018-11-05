@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/nando/.platformio/penv/bin:/home/nando/.platformio/penv:/home/nando/bin:/home/nando/.local/bin:/opt/ros/kinetic/bin:/home/nando/bin:/home/nando/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "cstdint": "cpp"
+    }
+}

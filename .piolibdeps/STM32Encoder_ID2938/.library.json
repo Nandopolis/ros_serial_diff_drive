@@ -1,0 +1,37 @@
+{
+    "name": "STM32Encoder", 
+    "version": "1.0", 
+    "keywords": [
+        "timing"
+    ], 
+    "description": "HardwareTimer as Encoder Reader", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [], 
+    "authors": [
+        {
+            "email": null, 
+            "url": null, 
+            "maintainer": false, 
+            "name": "Cardoso"
+        }
+    ], 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/bubulindo/STM32Encoder"
+    }, 
+    "homepage": null, 
+    "export": {
+        "include": null, 
+        "exclude": [
+            "extras", 
+            "docs", 
+            "tests", 
+            "test", 
+            "*.doxyfile", 
+            "*.pdf"
+        ]
+    }, 
+    "id": 2938
+}
