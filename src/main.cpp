@@ -216,7 +216,6 @@ void loop() {
 			if (u[i] < -31.416) {
 				u[i] = -31.416;
 			}
-			u[i] = r[i];
 			motor[i]->Move(u[i] * 255 / 31.416);
     }
     wheel_vel.data = wheel_vel_array;
